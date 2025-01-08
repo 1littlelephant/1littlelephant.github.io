@@ -9,7 +9,8 @@ name: Micah Somsouk
 description: San Francisco Chronic Sleeper
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![dozer]({{ site.baseurl }}/images/dozer.webp "dozer")
+avatar: ![dozer]({{ site.baseurl }}/images/DozerSprite-ezgif.com-webp-to-jpg-converter.jpg "dozer")
+
 
 #
 # Flags below are optional
